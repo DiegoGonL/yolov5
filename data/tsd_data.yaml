@@ -1,0 +1,19 @@
+names:
+- speed_limit
+- goods_vehicles
+- no_overtaking
+- no_stopping
+- no_parking
+- stop
+- bicycle
+- hump
+- no_left
+- no_right
+- priority_to
+- no_entry
+- yield
+- parking
+nc: 14
+test: ../TSD/images/test/
+train: ../TSD/images/train/
+val: ../TSD/images/validation/
